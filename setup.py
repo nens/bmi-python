@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys
 
-version = '0.1.3+nens.dev0'
+version = '0.1.3.nens'
 
 long_description = '\n\n'.join([
     open('README.rst').read(),

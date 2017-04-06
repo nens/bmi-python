@@ -1,7 +1,7 @@
 Changelog of bmi-python
 ===================================================
 
-0.1.3+nens (unreleased)
+0.1.3.nens (2017-04-06)
 -----------------------
 
 - Nothing changed yet.
