@@ -1,7 +1,7 @@
 Changelog of bmi-python
 ===================================================
 
-0.1.1+nens (unreleased)
+0.1.2+nens (2017-04-06)
 -----------------------
 
 - allow relative path for config_file
