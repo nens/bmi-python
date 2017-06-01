@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys
 
-version = '0.2'
+version = '0.0.0.2.wedontwantit'
 
 long_description = '\n\n'.join([
     open('README.rst').read(),
@@ -56,8 +56,6 @@ setup(
     zip_safe=False,
     install_requires=install_requires,
     setup_requires=[
-        'sphinx',
-        'sphinx_rtd_theme'
     ],
 
     tests_require=tests_require,
